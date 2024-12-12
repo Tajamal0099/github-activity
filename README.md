@@ -1,4 +1,6 @@
-![To-Do App](https://dribbble.com/shots/23632378-Apple-Vision-Pro-Smart-Home)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+![To-Do App](https://cdn.dribbble.com/userupload/13022755/file/original-a9f5895b6ac4d4d652f6697901597119.png?resize=1024x768&vertical=center)
 
 GitHub Branch Activity Tracker
 
